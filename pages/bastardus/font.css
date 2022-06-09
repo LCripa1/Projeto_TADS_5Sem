@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'BASTARDUSSANS';
+	src: url('./BASTARDUSSANS.eot');
+	src: local('BASTARDUSSANS'), url('./BASTARDUSSANS.woff') format('woff'), url('./BASTARDUSSANS.ttf') format('truetype');
+}
+/* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_16866">Text with this font applied</p> */
+.fonts {
+	font-family: 'BASTARDUSSANS' !important;
+}
+
+/* Font downloaded from FontsForWeb.com */
